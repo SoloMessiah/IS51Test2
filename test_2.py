@@ -14,7 +14,6 @@ will print the average grade and the percentage of grades above the average.
 
 
 
-
 """
 
 First funcion, calculate_percent_above_average().
